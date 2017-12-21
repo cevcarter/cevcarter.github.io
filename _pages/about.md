@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Chris. I am a data scientist, machine learning engineer, and general computational science enthusiast located in Northern New York. Welcome to my online portfolio!
-
-I am a mathematics major and computer science minor at Clarkson University. My interests lie in Bayesian treatments of machine learning, computational statistics, and other data-driven analysis.
+Hi, I'm Chris. I am a mathematics major at Clarkson University. My interests lie in data science, machine learning, and computational statistics. Welcome to my online portfolio!
 
 Add me on [LinkedIn](https://www.linkedin.com/in/chris-c-8a55bb85/).
 

@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Eta Informatics
-email: chrisevancarter@example.com
+title: Christopher Carter
+email: carterce1997@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Insert description later.
+  My interests, skills, and projects, pertaining to computational statistics and machine learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  chriscarter2357

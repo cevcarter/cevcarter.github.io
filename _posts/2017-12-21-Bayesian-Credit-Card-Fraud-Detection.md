@@ -65,7 +65,7 @@ plt.show()
 ```
 
 
-![png]({{site.url}}/assets/Bayesian-Credit-Card-Fraud-Detection/output_7_0.png)
+![]({{"images/Bayesian-Credit-Card-Fraud-Detection/output_7_0.png"|absolute_url}})
 
 
 Using this, we can select the best features and build the training and testing sets for the classifier.
@@ -125,7 +125,7 @@ plt.show()
 ```
 
 
-![png](Bayesian-Credit-Card-Fraud-Detection/output_14_0.png)
+![png]({{"images/Bayesian-Credit-Card-Fraud-Detection/output_14_0.png"|absolute_url}})
 
 
 ### The Bayesian Model
@@ -184,7 +184,7 @@ plt.show()
 ```
 
 
-![png](Bayesian-Credit-Card-Fraud-Detection/output_20_0.png)
+![png]({{"images/Bayesian-Credit-Card-Fraud-Detection/output_20_0.png"|absolute_url}})
 
 
 Using this distribution, we can estimate the parameters of the regression as the mean of the distribution.
@@ -220,7 +220,7 @@ plt.show()
 ```
 
 
-![png](Bayesian-Credit-Card-Fraud-Detection/output_24_0.png)
+![png]({{"images/Bayesian-Credit-Card-Fraud-Detection/output_24_0.png"|absolute_url}})
 
 
 Another way of visualizing the posterior is using a violin plot of the parameters. This is another way of determining which features are significant for performing the regression, and also gives a semblance of the amount of confidence that exists in each parameter estimation.
@@ -249,7 +249,7 @@ plt.show()
 ```
 
 
-![png](Bayesian-Credit-Card-Fraud-Detection/output_26_0.png)
+![png]({{"images/Bayesian-Credit-Card-Fraud-Detection/output_26_0.png"|absolute_url}})
 
 
 Using pymc3's toolbox, we can get a nice summary of this.

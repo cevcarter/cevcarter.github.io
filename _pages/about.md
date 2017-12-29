@@ -11,3 +11,5 @@ Add me on [LinkedIn](https://www.linkedin.com/in/chris-c-8a55bb85/).
 Find me on [GitHub](https://github.com/chriscarter2357).
 
 Follow me on [Kaggle](https://www.kaggle.com/carterce).
+
+Hire me on [Upwork](https://www.upwork.com/o/profiles/users/_~01403295c4ed1411c4/).

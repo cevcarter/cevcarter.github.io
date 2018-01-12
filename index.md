@@ -1,5 +1,6 @@
 ---
 layout: home
+title: "Home"
 ---
 
 # Not just analytics. Informatics. 
@@ -7,10 +8,6 @@ layout: home
 ### Cutting Edge Statistical Analysis
 
 ![png]({{"images/Home-Page/dphist.png"|absolute_url}})
-
-### Machine Learning
-
-![png]({{"images/Home-Page/ml2.png"|absolute_url}}){:height="250px"}
 
 ### Markov Chain Monte Carlo
 

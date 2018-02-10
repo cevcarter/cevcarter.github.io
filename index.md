@@ -3,12 +3,8 @@ layout: home
 title: "Home"
 ---
 
-# Not just analytics. Informatics. 
+# Explorations in Data-driven Computation
 
-### Cutting Edge Statistical Analysis
+### On this page I feature my skills with machine learning, Markov Chain Monte Carlo and Bayesian Inference, and other computational pattern recognition techniques that I find interesting. 
 
-![png]({{"images/Home-Page/dphist.png"|absolute_url}})
-
-### Markov Chain Monte Carlo
-
-![png]({{"images/Home-Page/mcmc.png"|absolute_url}}){:height="210px"}
+### I believe that these methods are the future of data analysis, since they are the kinds of techniques necessary to facilitate the complex modeling necessary to solve the difficult problems facing our world.

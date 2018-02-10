@@ -376,3 +376,5 @@ plt.show()
 
 ![png]({{"images/Dirichlet-Processes/output_25_0.png"|absolute_url}})
 
+
+In my eyes, this is underdeveloped technology, and probably will be for some time. There is a lot of theoretical work to be done in proper selection of the priors and hyperpriors in the hierarchy, but work also must be done on the implementation side to improve the design and interface of the sampler used to facilitate the inference. In general, this was more of a fun challenge for me, but may be something that I will pursue later.

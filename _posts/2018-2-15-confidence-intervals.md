@@ -1,5 +1,5 @@
 ---
-title: "PDF Example"
+title: "Introduction to Confidence Intervals"
 date: 2018-2-15
 layout: pdf
 ---
